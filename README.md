@@ -8,10 +8,7 @@ The site isn't necessarily a finished product, I'm not in love with the styling,
 
 ## Demo
 
-
-## Screenshot
-
-![Screenshot 1](https://media0.giphy.com/media/PMBxZxqPAOwvMop7N8/giphy.gif?cid=790b7611db21d1ce199a6e298a4ec5ffa71d0a09553fe74e&rid=giphy.gif&ct=g)
+[Live Demo](https://coffee-shops-31ao55ptj-vic-mwendas-projects.vercel.app) - Browse coffee shops, view details, and vote for your favorites.
 
 ## Tools Used
 
